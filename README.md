@@ -14,7 +14,7 @@ This is a simple command-line weather application written in Python. The app all
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/thedonnyvan/weather-app.git
+   https://github.com/thedonnyvan/WeatherApp.git
 
 2. **Navigate to weather-app**
 
