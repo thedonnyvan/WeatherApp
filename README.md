@@ -50,6 +50,7 @@ Feels Like: 14.00 °C, 57.20 °F
 Description: clear sky
 
 Type 'exit' if you would like to leave the program.
+
 Enter City Name: exit
 
 Thank you for using the Weather App.
