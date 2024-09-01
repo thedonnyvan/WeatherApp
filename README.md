@@ -44,7 +44,9 @@ Enter City Name: London
 
 Weather in London, GB:
 Temperature: 15.00 °C, 59.00 °F
+
 Feels Like: 14.00 °C, 57.20 °F
+
 Description: clear sky
 
 Type 'exit' if you would like to leave the program.
